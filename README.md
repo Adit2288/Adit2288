@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there , I am Adit Ishmam👋
+
+## 🎓 Education
+
+- **United International University (UIU)**
+  - *B.Sc. in Computer Science and Engineering (CSE)*
+
+- **Shaheed Ramiz Uddin Cantonment College**
+  - *H.S.C.*
+
+- **Kurmitola High School & College**
+  - *S.S.C.*
 
 
 ## 🌐 Socials:
